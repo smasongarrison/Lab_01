@@ -12,7 +12,7 @@ output:
 
 ```{r load-packages, message=FALSE}
 library(tidyverse) 
-library(datasauRus)
+# library(datasauRus)
 ```
 
 ## Exercises
