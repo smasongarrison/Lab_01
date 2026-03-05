@@ -13,6 +13,7 @@ output:
 ```{r load-packages, message=FALSE}
 library(tidyverse) 
 # library(datasauRus)
+library(ggpedigree)
 ```
 
 ## Exercises
